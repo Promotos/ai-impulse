@@ -3,6 +3,6 @@ description: Mein Blog über KI und Technologie
 baseurl: "/ai-impulse"
 url: "https://promotos.github.io"
 
-markdown: kramdown
-highlighter: rouge
-theme: minima
+# markdown: kramdown
+# highlighter: rouge
+theme: slate
