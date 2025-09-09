@@ -5,4 +5,4 @@ url: "https://promotos.github.io"
 
 # markdown: kramdown
 # highlighter: rouge
-theme: slate
+theme: minima
