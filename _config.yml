@@ -1,7 +1,7 @@
-title: Mein Blog
-description: Beschreibung meines Blogs
-baseurl: ""
-url: "https://promotos.github.io/ai-impulse/"
+title: AI Impulse
+description: Mein Blog über KI und Technologie
+baseurl: "/ai-impulse"
+url: "https://promotos.github.io"
 
 markdown: kramdown
 highlighter: rouge
