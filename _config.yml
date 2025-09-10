@@ -3,10 +3,18 @@ description: Mein Blog über KI und Technologie
 baseurl: "/ai-impulse"
 url: "https://promotos.github.io"
 
+linkedin_username: matthias-lachmann-02257318b
+
+excerpt_separator: <!--more-->
+
 # markdown: kramdown
 # highlighter: rouge
 # theme: dinky
 theme: minima
+
+minima:
+  # Excerpts auf der Startseite anzeigen
+  show_excerpts: true
 
 plugins:
   - jekyll-remote-theme
