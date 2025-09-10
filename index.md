@@ -1,15 +1,9 @@
 ---
 layout: home
-title: Willkommen
+title: Willkommen bei AI Impulse
 ---
 
-# Willkommen bei AI Impulse
-
 Hier schreibe ich über Künstliche Intelligenz, Technologie-Trends und deren Auswirkungen auf unsere Zukunft.
-
-## Neueste Beiträge
-
-Die aktuellsten Artikel finden Sie unten aufgelistet.
 
 ## Über diesen Blog
 
