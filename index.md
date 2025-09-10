@@ -5,6 +5,8 @@ title: Willkommen bei AI Impulse
 
 Hier schreibe ich über Künstliche Intelligenz, Technologie-Trends und deren Auswirkungen auf unsere Zukunft.
 
+{% include search-box.html %}
+
 ## Über diesen Blog
 
 Dieser Blog behandelt Themen wie:

@@ -8,6 +8,10 @@ url: "https://promotos.github.io"
 # theme: dinky
 theme: minima
 
+plugins:
+  - jekyll-remote-theme
+
 # Navigation
 header_pages:
   - about.md
+  - search.html
