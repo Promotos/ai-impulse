@@ -13,3 +13,7 @@ Hier stelle ich mich vor und erkläre, worum es in diesem Blog geht.
 ## Worum geht es hier?
 
 In diesem Blog behandle ich...
+
+## Kontakt
+Matthias Lachmann  
+E-Mail: mlachmann@gmx.de
