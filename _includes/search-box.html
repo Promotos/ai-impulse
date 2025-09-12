@@ -9,11 +9,18 @@
   window.simpleJekyllSearch = new SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: '{{ site.baseurl }}/search.json',
+    json: 'search.json',
     searchResultTemplate: '<li style="padding: 8px; border-bottom: 1px solid #eee;"><a href="{url}" style="text-decoration: none; color: #333;">{title}</a></li>',
     noResultsText: '<li style="padding: 8px;">Keine Ergebnisse gefunden</li>',
     limit: 5,
     fuzzy: true,
-    debounceTime: 300
+    debounceTime: 300,
+    searchFields: ['title', 'content', 'tags'], // Tags hier hinzufügen
+    templateMiddleware: function(prop, value, template) {
+      if (prop === 'tags') {
+        return value.split(', ').map(tag => `<span class="tag">${tag}</span>`).join(' ');
+      }
+      return value;
+    }
   })
 </script>
