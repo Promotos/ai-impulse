@@ -10,6 +10,8 @@ Hier schreibe ich über Künstliche Intelligenz, Technologie-Trends und deren Au
 ## Über diesen Blog
 
 Dieser Blog behandelt Themen wie:
+- Microsoft KI Learning Week
+
 - Machine Learning und Deep Learning
 - KI-Tools und deren praktische Anwendung
 - Ethik und gesellschaftliche Auswirkungen von KI
