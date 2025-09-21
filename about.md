@@ -4,9 +4,6 @@ title: Über mich
 permalink: /about/
 ---
 
-Hier stelle ich mich vor und erkläre, worum es in diesem Blog geht.
-
-## Wer bin ich?
 Mein Name ist Matthias Lachmann und ich verantworte als Innovation Lab Software Architect Lead das deutsche Innovation Lab einer global agierenden Unternehmensberatung.  
 Meine berufliche Laufbahn begann in der Software-Modernisierung mit Fokus auf die Transformation komplexer Legacy-Systeme – von Mainframe-Architekturen in traditionellen Programmiersprachen wie COBOL, Natural, PL/I, JCL, etc. Diese Erfahrung im Umgang mit unternehmenskritischen Altsystemen prägt meinen pragmatischen Ansatz bei der Einführung neuer Technologien.  
 Als Software Architect mit fundiertem Development-Background vertrete ich die Überzeugung, dass erfolgreiche Architektur nur durch tiefes technisches Verständnis und praktische Implementierungserfahrung entstehen kann. Meine Kernkompetenz liegt in der schnellen Überführung strategischer Konzepte in funktionsfähige Prototypen und MVPs – nach dem bewährten Prinzip **"show, don't tell"**.  
