@@ -5,21 +5,6 @@ date: 2025-09-18 21:00:00 +0100
 tags: microsoft learning
 ---
 
-Hilf mir einen Post zu schreiben.
-* In der vergangenen Woche fand die Microsoft KI week statt.
-* In dieser wurden kostenlose Kurse zum Thema KI online durchgeführt
-* Fokus war der Unternehmenseinsatz natürlich mit Schwerpunkt auf MS Produkte
-* Live Demos und interviews
-* Gut gefallen hat mir
-  * Breites Spektrum
-  * Geringe Einstiegshürde
-  * Fokus auf Unternehmen und einzelne Kurse auf unterschiedliche Rollen
-* Weniger gut fand ich
-  * Oberflächliche Vorstellung
-  * Einseitig zu positiv auf KI
-* Alles in allem eine tolle Veranstaltung, welche sicher Denkanstöße gegeben hat und bei einigen Leuten nachwirkt
-
-
 Letzte Woche hatte ich die Gelegenheit, an der Microsoft KI Week teilzunehmen – einer kostenlosen Online-Veranstaltungsreihe, die sich gezielt an Unternehmen richtete und verschiedene Aspekte der KI-Implementierung beleuchtete. Als jemand, der täglich mit KI-Transformationsprojekten arbeitet, war ich gespannt auf Microsofts Ansatz und die praktischen Einblicke.
 
 <!--more-->
