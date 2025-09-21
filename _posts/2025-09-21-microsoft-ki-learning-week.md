@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft KI Learning Week"
-date: 2025-09-09 10:00:00 +0100
+date: 2025-09-18 21:00:00 +0100
 tags: microsoft learning
 ---
 
