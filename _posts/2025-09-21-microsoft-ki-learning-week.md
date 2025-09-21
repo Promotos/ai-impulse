@@ -27,4 +27,4 @@ Was mir besonders positiv aufgefallen ist: Die Veranstaltung wird sicherlich bei
 
 **Meine Empfehlung:** Nutzt solche Formate als Türöffner, aber plant von Anfang an den nächsten Schritt mit. Die wirkliche Arbeit beginnt, wenn die Präsentationen vorbei sind und die ersten praktischen Fragen auftauchen.
 
-[Microsoft AI Learning Week]([https://](https://www.microsoft.com/de-de/aktionen/ai-learning-week/)
+[Microsoft AI Learning Week](https://www.microsoft.com/de-de/aktionen/ai-learning-week/)
