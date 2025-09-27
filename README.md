@@ -10,7 +10,6 @@
 `bundle exec jekyll build` um die Seite zu bauen.
 
 ## Post Ideen
-- Microsoft KI Learning Week
 - AI in der Bildung
 - Ein Tag Vibe-Coding
 - AI in der Arbeitswelt
