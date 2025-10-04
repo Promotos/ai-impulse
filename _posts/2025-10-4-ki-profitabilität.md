@@ -101,7 +101,8 @@ Die Gewinner werden jene sein, die jetzt – nicht in fünf Jahren – konkrete,
 ## Quellenverzeichnis
 **Hauptquelle**
 
-Zitron, Ed (2025): "The Case Against Generative AI", Where's Your Ed At, https://www.wheresyoured.at/the-case-against-generative-ai
+Zitron, Ed (2025): "The Case Against Generative AI", Where's Your Ed At, 
+[https://www.wheresyoured.at/the-case-against-generative-ai](https://www.wheresyoured.at/the-case-against-generative-ai)
 
 Umfassende Analyse der KI-Bubble mit detaillierten Finanzdaten
 Verwendung: Mehrfach zitiert für Umsatz-, Kosten- und Marktzahlen
@@ -109,13 +110,15 @@ Verwendung: Mehrfach zitiert für Umsatz-, Kosten- und Marktzahlen
 
 **Ergänzende deutschsprachige Quellen**
 
-Computerwoche (26. Februar 2025): "2025 ist das Jahr der Wertschöpfung durch KI", https://ai-powered-business-transformation.computerwoche.de/ki-und-automatisierung/2025-ist-das-jahr-der-wertschoepfung-durch-ki/
+Computerwoche (26. Februar 2025): "2025 ist das Jahr der Wertschöpfung durch KI", 
+[https://ai-powered-business-transformation.computerwoche.de/ki-und-automatisierung/2025-ist-das-jahr-der-wertschoepfung-durch-ki/](https://ai-powered-business-transformation.computerwoche.de/ki-und-automatisierung/2025-ist-das-jahr-der-wertschoepfung-durch-ki/)
 
 McKinsey-Studie: 65% der Unternehmen nutzen regelmäßig generative KI
 ThoughtLab-Studie: Nur 18% haben volles Transformationspotenzial ausgeschöpft
 
 
-Markt und Mittelstand (7. Dezember 2024): "KI-Potenzial im Mittelstand: Studie 2025", https://www.marktundmittelstand.de/technologie/ki-studie-2025
+Markt und Mittelstand (7. Dezember 2024): "KI-Potenzial im Mittelstand: Studie 2025",
+[https://www.marktundmittelstand.de/technologie/ki-studie-2025](https://www.marktundmittelstand.de/technologie/ki-studie-2025)
 
 Avanade Trendlines AI Value Report 2025
 53% der Mittelständler erhöhen KI-Budgets um bis zu 25%
